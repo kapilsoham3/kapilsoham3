@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soham Kapil @kapilsoham3
-- 👀 I’m interested in creating CAD designs, developing analytical software and learning about new breakthroughs in STEM
+- 👀 I'm interested in **Nanotechnology projects**, **CAD designs**, developing **analytical software** (especially for data characterization), and **material design**.
 - 🌱 I’m currently learning **Nanotechnology Engineering** at **University of Waterloo** 
-- 💞️ I’m looking to collaborate on  engineering, CAD design and STEM related projects
+- 💞️ I'm looking to collaborate on projects involving **nanotechnology**, **material characterization**, computational modeling, and **CAD/simulation**.
 - 📫 Reach me using my email at kapilsoham3@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I am really into classical music :)
