@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate on projects involving **nanotechnology**, **material characterization**, computational modeling, and **CAD/simulation**.
 - 📫 Reach me using my email at kapilsoham3@gmail.com 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I am really into classical music :)
+  
 
 <!---
 kapilsoham3/kapilsoham3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
