@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Soham Kapil @kapilsoham3
-- 👀 I'm interested in applications of nanotechnology and machine learning in biology, particularly targeted drug delivery.
+- 👀 I'm interested in nanoscale engineering, and I'm particularly interested in biological/medical applications such as targeted drug delivery
 - 🌱 I’m currently studying Nanotechnology Engineering at the University of Waterloo, with an AI option.
 - 📫 Reach me using my email at s2kapil@uwaterloo.ca
 - 😄 Pronouns: He/Him 
