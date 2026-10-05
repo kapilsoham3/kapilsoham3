@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Soham Kapil @kapilsoham3
-- 👀 I'm interested in **Nanotechnology projects**, **CAD designs**, developing **analytical software** (especially for data characterization), and **material design**.
-- 🌱 I’m currently learning **Nanotechnology Engineering** at **University of Waterloo** 
-- 💞️ I'm looking to collaborate on projects involving **nanotechnology**, **material characterization**, computational modeling, and **CAD/simulation**.
-- 📫 Reach me using my email at kapilsoham3@gmail.com 
+- 👀 I'm interested in applications of nanotechnology and machine learning in biology. (Specifically targetted drug delivery right now.)
+- 🌱 I’m currently learning **Nanotechnology Engineering** at **University of Waterloo** and taking an option in **AI**
+- 📫 Reach me using my email at s2kapil@uwaterloo.ca
 - 😄 Pronouns: He/Him 
   
 
